@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0d249bb-2183-4d10-aa7b-2d7d8fc438d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29miYJwnp7HeCe4PfvaV5urBCgL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python\豆瓣电影Top500_test\analyse\test" />
+      <recent name="F:\python\豆瓣电影Top500_test\test" />
+      <recent name="F:\python\豆瓣电影Top500\test" />
+      <recent name="F:\python\豆瓣电影Top500" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\豆瓣电影Top500_test\analyse" />
+      <recent name="F:\python\豆瓣电影Top500\analyse_test" />
+      <recent name="F:\python\豆瓣电影Top500" />
+      <recent name="F:\python\豆瓣电影Top500\scrapy\comment" />
+      <recent name="F:\python\豆瓣电影Top500\scrapy\movie2016_2021" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.comment_analyse">
+    <configuration name="Merge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="豆瓣电影Top500" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analyse" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analyse/Merge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="comment_analyse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="豆瓣电影Top500" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analyse" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analyse/comment_analyse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="豆瓣电影Top500" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy/movie2016_2021" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy/movie2016_2021/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="豆瓣电影Top500" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy/comment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy/comment/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="豆瓣电影Top500" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy/doubanMovie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy/doubanMovie/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.comment_analyse" />
+        <item itemvalue="Python.Merge" />
+        <item itemvalue="Python.start (2)" />
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d249bb-2183-4d10-aa7b-2d7d8fc438d2" name="Default Changelist" comment="" />
+      <created>1653724707528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653724707528</updated>
+      <workItem from="1653724708971" duration="35855000" />
+      <workItem from="1654155224160" duration="90813000" />
+      <workItem from="1654502792201" duration="35772000" />
+      <workItem from="1654786359084" duration="87168000" />
+      <workItem from="1655142698634" duration="3000" />
+      <workItem from="1655142750091" duration="19088000" />
+      <workItem from="1655360660879" duration="9488000" />
+      <workItem from="1655379691704" duration="1618000" />
+      <workItem from="1655403311470" duration="646000" />
+      <workItem from="1655612318083" duration="8550000" />
+      <workItem from="1655866030798" duration="55000" />
+      <workItem from="1656072183640" duration="1568000" />
+      <workItem from="1656105463448" duration="810000" />
+      <workItem from="1657542274427" duration="812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1655037883440">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="478" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1493.893@0.0.1493.893" timestamp="1655037883440" />
+    <state width="1491" height="242" key="DebuggerActiveHint" timestamp="1654836639317">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1491" height="242" key="DebuggerActiveHint/0.0.1493.893@0.0.1493.893" timestamp="1654836639317" />
+    <state x="528" y="205" key="FileChooserDialogImpl" timestamp="1656109510112">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="528" y="205" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1656109510112" />
+    <state width="1450" height="214" key="GridCell.Tab.0.bottom" timestamp="1657542473826">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="214" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1657542473826" />
+    <state width="1450" height="214" key="GridCell.Tab.0.center" timestamp="1657542473825">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="214" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1657542473825" />
+    <state width="1450" height="214" key="GridCell.Tab.0.left" timestamp="1657542473825">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="214" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1657542473825" />
+    <state width="1450" height="214" key="GridCell.Tab.0.right" timestamp="1657542473826">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="214" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1657542473826" />
+    <state width="1450" height="243" key="GridCell.Tab.1.bottom" timestamp="1655178732435">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="243" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1655178732435" />
+    <state width="1450" height="243" key="GridCell.Tab.1.center" timestamp="1655178732435">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="243" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1655178732435" />
+    <state width="1450" height="243" key="GridCell.Tab.1.left" timestamp="1655178732435">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="243" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1655178732435" />
+    <state width="1450" height="243" key="GridCell.Tab.1.right" timestamp="1655178732435">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="243" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1655178732435" />
+    <state x="251" y="92" key="SettingsEditor" timestamp="1653724722421">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="251" y="92" key="SettingsEditor/0.0.1493.893@0.0.1493.893" timestamp="1653724722421" />
+    <state width="754" height="454" key="XDebugger.FullValuePopup" timestamp="1654839081795">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="754" height="454" key="XDebugger.FullValuePopup/0.0.1493.893@0.0.1493.893" timestamp="1654839081795" />
+    <state x="443" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1655403334384">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="443" y="275" key="com.intellij.ide.util.TipDialog/0.0.1493.893@0.0.1493.893" timestamp="1655403334384" />
+    <state x="410" y="189" width="672" height="678" key="search.everywhere.popup" timestamp="1654936835425">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="410" y="189" width="672" height="678" key="search.everywhere.popup/0.0.1493.893@0.0.1493.893" timestamp="1654936835425" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
+          <line>340</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
+          <line>194</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
+          <line>330</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/testT500.py</url>
+          <line>342</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/testT500.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/testT500.py</url>
+          <line>186</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/doubanMovie/start.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/doubanMovie/doubanMovie/spiders/MovieSpider.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/doubanMovie/doubanMovie/spiders/MovieSpider.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/doubanMovie/doubanMovie/spiders/MovieSpider.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/testT500.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/doubanMovie/doubanMovie/spiders/MovieSpider.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/doubanMovie/doubanMovie/pipelines.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/testIp.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test2016_2021.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/doubanMovie/doubanMovie/spiders/MovieSpider.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test2016_2021_2.py</url>
+          <line>238</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test2016_2021_2.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/movie2016_2021/movie2016_2021/pipelines.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/movie2016_2021/start.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test2016_2021_2.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/movie2016_2021/movie2016_2021/spiders/movie2016_2021Spider.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/movie2016_2021/movie2016_2021/spiders/movie2016_2021Spider.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/movie_analyse.py</url>
+          <line>455</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/comment/start.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy/comment/comment/spiders/MovieComment.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/movie_analyse.py</url>
+          <line>701</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/movie_analyse.py</url>
+          <line>683</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/wordcloudTest.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/wordcloudTest2.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/wordcloudTest2.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/wordcloudTest2.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/comment_analyse.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/comment_analyse.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/comment_analyse.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/comment_analyse.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/Merge.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/movie_analyse.py</url>
+          <line>709</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analyse/movie_analyse.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Top500_test$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1655361599012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy/doubanMovie/doubanMovie" />
+    <SUITE FILE_PATH="coverage/Top500$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1654196265387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1654970748940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy/movie2016_2021" />
+    <SUITE FILE_PATH="coverage/Top500_test$Merge.coverage" NAME="Merge Coverage Results" MODIFIED="1655379531072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analyse" />
+    <SUITE FILE_PATH="coverage/Top500$testIp.coverage" NAME="testIp Coverage Results" MODIFIED="1654241644441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500$start.coverage" NAME="start Coverage Results" MODIFIED="1654971323936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy/comment" />
+    <SUITE FILE_PATH="coverage/Top500$Merge.coverage" NAME="Merge Coverage Results" MODIFIED="1657542327369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analyse" />
+    <SUITE FILE_PATH="coverage/Top500$movie_analyse__1_.coverage" NAME="movie_analyse (1) Coverage Results" MODIFIED="1654985475510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analyse_test" />
+    <SUITE FILE_PATH="coverage/Top500$movie_analyse.coverage" NAME="movie_analyse Coverage Results" MODIFIED="1655178723702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analyse_test" />
+    <SUITE FILE_PATH="coverage/Top500$wordcloudTest.coverage" NAME="wordcloudTest Coverage Results" MODIFIED="1655014891332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500$getCommentTest.coverage" NAME="getCommentTest Coverage Results" MODIFIED="1654954965394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500$comment_analyse.coverage" NAME="comment_analyse Coverage Results" MODIFIED="1657542473812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analyse" />
+    <SUITE FILE_PATH="coverage/Top500$test2016_2021_2.coverage" NAME="test2016_2021_2 Coverage Results" MODIFIED="1654324666265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500$ChangeCsvToTxt.coverage" NAME="ChangeCsvToTxt Coverage Results" MODIFIED="1654688785225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500_test$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1655363016774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy/movie2016_2021" />
+    <SUITE FILE_PATH="coverage/Top500_test$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1655363725717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy/comment" />
+    <SUITE FILE_PATH="coverage/Top500$testChange.coverage" NAME="testChange Coverage Results" MODIFIED="1654672244343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500$test2016_2021.coverage" NAME="test2016_2021 Coverage Results" MODIFIED="1654272495514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500$.coverage" NAME="生成最终大屏 Coverage Results" MODIFIED="1655038041040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analyse_test" />
+    <SUITE FILE_PATH="coverage/Top500_test$start.coverage" NAME="start Coverage Results" MODIFIED="1655361655162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy/doubanMovie" />
+    <SUITE FILE_PATH="coverage/Top500$wordcloudTest2.coverage" NAME="wordcloudTest2 Coverage Results" MODIFIED="1655019522283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500$test.coverage" NAME="test Coverage Results" MODIFIED="1653992026990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Top500$MovieSpider.coverage" NAME="MovieSpider Coverage Results" MODIFIED="1654263526572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy/doubanMovie/doubanMovie/spiders" />
+    <SUITE FILE_PATH="coverage/Top500$testT500.coverage" NAME="testT500 Coverage Results" MODIFIED="1654321303300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
